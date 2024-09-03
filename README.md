@@ -1,5 +1,4 @@
 # SQVE_Supplementary-Materials
-# SQVE_Supplementary Materials
 A deep generative framework for nonlinear association analysis between brain imaging and genetic data in Alzheimer' s diseases: Supplementary Materials
 
 # Contents
