@@ -3,10 +3,12 @@ A deep generative framework for nonlinear association analysis between brain ima
 
 # Contents
 Appendix A: Related works
+
 A.1 Brain imaging genetics association analysis with nonlinear models
 A.2 Deep generative-based models in brain imaging genomics
 
 Appendix B: Methods and Results
+
 B.1 Generating synthetic data
 B.2 Effects of different neural network architectures and parameters on SQVE
 B.3 Evaluation Metrics
@@ -14,6 +16,7 @@ B.3 Evaluation Metrics
 Appendix C: Tables and Figures
 
 Tables S1-S6:
+
 Table S1. Statistics of demographic, neuropsychological and cognitive assessment of 500 subjects. MMSE (Mini-Mental State Examination), CDR (Clinical Dementia Rating Scale), ADAS11 (Alzheimer's Disease Assessment Scale-11 items score), FAQ (functional activities questionnaire)
 
 Table S2 The full names of the QTs.pdf
@@ -27,6 +30,7 @@ Table S5 The optimal value and the selection range of hyperparameters on the syn
 Table S6 The optimal value and the selection range of hyperparameters on the real dataset
 
 Figures S1-S5:
+
 Fig. S1. a. The mutation rate  of NC subjects from ADNI dataset and its gaussian distribution map (blue line). b. The mutation rate  of AD subjects from ADNI dataset and its gaussian distribution map (blue line). c. The gaussian distribution map of SNPs related to QTand SNP unrelated to QT. d. The histogram of the random effect variable. e. The gaussian distribution map. f. The binomial distribution map of random variance
 
 Fig. S2. Results of SQVE with different fragment sizes on synthetic dataset25
