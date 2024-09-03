@@ -5,12 +5,15 @@ A deep generative framework for nonlinear association analysis between brain ima
 Appendix A: Related works
 
 A.1 Brain imaging genetics association analysis with nonlinear models
+
 A.2 Deep generative-based models in brain imaging genomics
 
 Appendix B: Methods and Results
 
 B.1 Generating synthetic data
+
 B.2 Effects of different neural network architectures and parameters on SQVE
+
 B.3 Evaluation Metrics
 
 Appendix C: Tables and Figures
